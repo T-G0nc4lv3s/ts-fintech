@@ -1,0 +1,4 @@
+INSERT INTO TB_CLIENT (cpf, name, age) VALUES ('91458688089', 'Bob', 28);
+INSERT INTO TB_CLIENT (cpf, name, age) VALUES ('88073188813', 'Ana', 30);
+INSERT INTO TB_CLIENT (cpf, name, age) VALUES ('16454261492', 'Maria', 38);
+INSERT INTO TB_CLIENT (cpf, name, age) VALUES ('88554526570', 'Alex', 35);
